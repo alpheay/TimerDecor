@@ -9,11 +9,11 @@ classifiers = [
 ]
  
 setup(
-  name='javalikearrays',
+  name='timerdecor',
   version='0.1.1',
-  description='Java array functionality in Python :: Development Build',
+  description='Timer Decorator for Python',
   long_description=open('README.txt').read(),
-  url='https://github.com/alpheay/JavaLike.git',  
+  url='https://github.com/alpheay/TimerDecor',  
   author='Sagnik Nandi',
   author_email='nik.nandi.1@gmail.com',
   license='MIT', 
