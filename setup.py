@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='timerdecor',
-  version='0.1.1',
+  version='0.1.2',
   description='Timer Decorator for Python',
   long_description=open('README.txt').read(),
   url='https://github.com/alpheay/TimerDecor',  
